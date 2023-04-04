@@ -1,0 +1,6 @@
+<map id="DCEL" name="DCEL">
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,61,139"/>
+<area shape="rect" id="node2" href="$class_half_edge.html" title=" " alt="" coords="157,14,238,41"/>
+<area shape="rect" id="node3" href="$class_vertex.html" title=" " alt="" coords="112,112,176,139"/>
+<area shape="rect" id="node4" href="$class_face.html" title=" " alt="" coords="275,112,325,139"/>
+</map>
